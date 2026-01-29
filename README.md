@@ -15,8 +15,7 @@ Projects related to frontend & web technologies.
 
 ### 🔹 HTML & CSS Projects
 - 🍝 **Bella Vista – Restaurant Website**  
-  🔗 Live: https://CreateInCodes.github.io/bella-vista-restaurant  
-  💻 Code: https://github.com/CreateInCodes/bella-vista-restaurant  
+  🔗 Live: https://https://createincodes.github.io/Bella-Vista/    
 
 - 🧑‍💻 **Personal Portfolio Website** *(coming soon)*  
 - 🚀 **Startup Landing Page** *(coming soon)*  

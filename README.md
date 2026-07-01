@@ -216,7 +216,7 @@
 
 | Date | Topic | What I Built | Link |
 |------|-------|--------------|------|
-| Day 1 | C++ Basics | Hello World, Variables, Circle Area Calculator | [📂 View](https://github.com/CreateInCodes/cpp-dsa-library/tree/main/cpp_basics) |
+| Day 1 | C++ Basics | Hello World, Variables, Circle Area Calculator | [📂 View](https://github.com/CreateInCodes/cpp-dsa-library.git) |
 | Day 2 | Arrays + Linked List | Dynamic Array, Singly Linked List from scratch | [📂 View](https://github.com/CreateInCodes/cpp-dsa-library/tree/main/data_structures) |
 | Day 3 | Stack + Sorting | Array-based Stack, Bubble & Selection Sort | [📂 View](https://github.com/CreateInCodes/cpp-dsa-library/tree/main/algorithms) |
 | Day 4+ | _updating daily..._ | — | — |

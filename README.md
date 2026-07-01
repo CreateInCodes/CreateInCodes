@@ -225,7 +225,7 @@
 
 | Date | Topic | What I Practiced | Link |
 |------|-------|-----------------|------|
-| Day 1 | Python Basics | print(), syntax, Hello World | [📂 View](#) |
+| Day 1 | Python Basics | print(), syntax, Hello World | [📂 View](Day01_Python_Basics.ipynb) |
 | Day 2 | Variables & Data Types | input(), type(), type casting | [📂 View](#) |
 | Day 3 | Operators | Arithmetic, assignment, comparison, logical, membership | [📂 View](#) |
 | Day 4 | Decision Making | if, if-else, elif, nested conditions | [📂 View](#) |

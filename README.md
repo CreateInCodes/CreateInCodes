@@ -221,6 +221,8 @@
 | Day 3 | Stack + Sorting | Array-based Stack, Bubble & Selection Sort | [📂 View](https://github.com/CreateInCodes/cpp-dsa-library/tree/main/algorithms) |
 | Day 4+ | _updating daily..._ | — | — |
 
+> 🔗 All code lives here → **[cpp-dsa-library](https://github.com/CreateInCodes/cpp-dsa-library)**
+
 ### 🐍 AI / ML with Python — Daily Commits
 
 | Date | Topic | What I Practiced | Link |
@@ -232,8 +234,8 @@
 | Day 5 | Practice Problems + Loops intro | 7 applied programs, loop intro | [📂 View](#) |
 | Day 6+ | _updating daily..._ | — | — |
 
-> 🔗 All code lives here → **[cpp-dsa-library](https://github.com/CreateInCodes/cpp-dsa-library)**
-> Python notebooks coming to a dedicated repo soon.
+
+> 🔗 All code lives here → **[100-days-ai-ml](https://github.com/CreateInCodes/100-days-ai-ml.git)**
 
 <br/>
 
